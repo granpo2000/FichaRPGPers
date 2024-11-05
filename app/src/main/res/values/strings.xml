@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FichaRPG</string>>
+    <string-array name="race_array">
+        <item>Humano</item>
+        <item>Anão</item>
+        <item>Elfo</item>
+        <item>Halfling</item>
+        <item>Gnomo</item>
+        <item>Meio-Elfo</item>
+        <item>Meio-Orc</item>
+        <item>Tiefling</item>
+    </string-array>
+    <string-array name="class_array">
+        <item>Bárbaro</item>
+        <item>Bardo</item>
+        <item>Clérigo</item>
+        <item>Druida</item>
+        <item>Guerreiro</item>
+        <item>Monge</item>
+        <item>Paladino</item>
+        <item>Patrulheiro</item>
+        <item>Ladino</item>
+        <item>Feiticeiro</item>
+        <item>Bruxo</item>
+        <item>Mago</item>
+    </string-array>
+</resources>
